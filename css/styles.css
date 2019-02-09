@@ -15,3 +15,9 @@ h2 {
   font-size: 40pt;
   border-bottom: 5px solid brown;
 }
+ul {
+  text-overflow: clip;
+  font-style: oblique;
+  font-size: 40pt;
+  
+}
