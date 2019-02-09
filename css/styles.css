@@ -48,3 +48,9 @@ p {
 column2 p {
   color: black;
 }
+.column {
+  background-color: coral;
+}
+.important {
+  font-family: cursive;
+}
