@@ -29,10 +29,15 @@ h3
 
 p {
   font-size: 20pt;
-  color: white;
+  color: brown;
 }
 #p {
   font-size: 35;
   color: brown;
   text-align: left;
+}
+
+.important{
+  color: blue;
+  font-style: italic;
 }
