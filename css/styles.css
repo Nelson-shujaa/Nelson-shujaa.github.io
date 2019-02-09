@@ -12,6 +12,7 @@
 h2 {
   color: brown;
   text-align: center;
+  font-style: oblique;
   font-size: 40pt;
   border-bottom: 5px solid brown;
 }
@@ -19,5 +20,14 @@ ul {
   text-overflow: clip;
   font-style: oblique;
   font-size: 40pt;
+
+}
+h3
+{
+  font-size: 30
   
+}
+
+p {
+  font-size: 20pt;
 }
