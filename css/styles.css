@@ -41,3 +41,10 @@ p {
   color: blue;
   font-style: italic;
 }
+.column1 p {
+  color:white;
+}
+
+column2 p {
+  color: black;
+}
