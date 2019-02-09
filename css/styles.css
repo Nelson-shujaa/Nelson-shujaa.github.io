@@ -5,3 +5,13 @@
   padding: 40px;
 
     }
+  .column1 {
+    background-color: yellowgreen;
+  }
+
+h2 {
+  color: brown;
+  border-top: 50px;
+  text-align: center;
+  font-size: 40pt;
+}
