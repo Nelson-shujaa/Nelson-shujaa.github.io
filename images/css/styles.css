@@ -1,8 +1,10 @@
+
 #header {
   font-family: sans-serif;
-  font-size: 40pt;
+  font-size: 45pt;
   background-color: Aqua;
   padding: 40px;
+  color: black;
 
     }
   .column1 {
@@ -83,9 +85,11 @@ body {
 }
 .topnav ul {
   list-style-type: none;
-  margin: 0;
+  margin: 0
   padding: 0;
   overflow: hidden;
+  background-color: Aqua;
+
 }
 .topnav li {
   float: right;
@@ -93,7 +97,13 @@ body {
 .topnav li a{
   display: block;
   color: black;
-  padding: 14px 16px
-  text-decoration:none;
+  padding: 14px 16px;
+  text-decoration: none;
 
+}
+.topnav li a:hover:not(.active){
+  background-color: white;
+}
+.active {
+  background-color: gold;
 }
