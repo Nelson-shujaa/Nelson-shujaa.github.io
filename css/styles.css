@@ -73,3 +73,7 @@ column2{
 body {
   background-color: paleTurquoise;
 }
+.contacts {
+  color: indigo;
+  font-size: 20pt;
+}
