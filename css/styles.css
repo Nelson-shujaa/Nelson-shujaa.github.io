@@ -52,7 +52,7 @@ column2 p {
 .column {
 
   text-align: left;
-  float: left;
+  float: right;
 }
 .important {
   font-family: cursive
@@ -60,5 +60,13 @@ column2 p {
 
 }
 column2{
-  float: left;
+  float: right;
+}
+ #pic img {
+   max-width
+
+  float: right;
+  padding: left 20px;
+
+
 }
