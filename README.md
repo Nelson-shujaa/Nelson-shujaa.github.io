@@ -17,7 +17,7 @@ Atom,terminal, css.
 ## Support and contact details
 nelsonzachariah@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+
 Copyright (c) 2019 Nelson-shujaa
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
